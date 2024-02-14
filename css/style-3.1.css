@@ -4585,7 +4585,7 @@ a.transparent-btn {
 
 .ready-section_colored-container__box {
     padding: 64px 0;
-    background: #FFE8EC;
+    background: #F3F3FD;
     border-radius: 16px;
 }
 
@@ -7924,7 +7924,7 @@ a.form__item-programs-link {
     }
 
     .ready-section_colored-container {
-        background: #FFE8E9;
+        background: #F3F3FD;
     }
 
     .ready-section_colored-container__box {
@@ -10327,7 +10327,7 @@ a.content__video.video {
         width: 70px;
         height: 70px;
         border-radius: 50%;
-        background: #FF393D;
+        background: #1976d2;
         position: absolute;
         bottom: 0;
         left: 50%;
@@ -10396,7 +10396,7 @@ a.content__video.video {
         height: 0;
         border-left: 7px solid transparent;
         border-right: 7px solid transparent;
-        border-bottom: 12px solid #FF393D;
+        border-bottom: 12px solid #1976d2;
         position: absolute;
         right: -8px;
         left: auto;
