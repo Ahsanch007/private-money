@@ -1622,7 +1622,7 @@ input[type="number"]#loan::-webkit-outer-spin-button {
     color: #FFFFFF;
     background-color: #1976d2;
     border-radius: 20px;
-    border: none;
+    border: 2px solid #1976d2;
     outline: none;
     cursor: pointer;
     display: -webkit-box;
@@ -1656,7 +1656,9 @@ input[type="number"]#loan::-webkit-outer-spin-button {
 
 
 .red-btn:hover {
-    background-color: #b53034;
+    background-color: transparent;
+    color: #1976d2;
+    border: 2px solid #1976d2;
 }
 
 .red-btn_partner-form:hover,
